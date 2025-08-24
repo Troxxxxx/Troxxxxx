@@ -6,32 +6,27 @@ En búsqueda de oportunidades de práctica profesional y proyectos remotos donde
 
 
 Tecnologías y herramientas
-- **Lenguajes:** Java, Python, JavaScript, PHP, SQL  
-- **Frameworks & Librerías:** Spring Boot, Django, React, Angular, Bootstrap  
-- **Bases de datos:** MySQL, SQL Server, phpMyAdmin  
-- **Herramientas:** Git, GitHub, Docker, Fireworks  
+Lenguajes: Java, Python, JavaScript, PHP, SQL, TypeScript
+Frameworks & Librerías: Spring Boot, Django, React, Angular, Bootstrap, Laravel, Angular, Vue.js, Ionic
+Bases de datos: MySQL, SQL Server, phpMyAdmin  
+Herramientas: Git, GitHub, Docker, Fireworks  
 
----
 
-## 📂 Proyectos Destacados
+Proyectos Destacados
 🔹 [Sistema de Gestión de Tareas (CRUD)](URL_DEL_REPO) – Aplicación web tipo JIRA/Asana para administración de tareas.  
 🔹 [App móvil de ejemplo](URL_DEL_REPO) – Proyecto realizado en el curso de Programación Móvil.  
 🔹 [Sistema de Gestión Académica](URL_DEL_REPO) – Proyecto académico con MySQL y Spring Boot.  
 
-*(Reemplaza los links con los repositorios reales y ancla 3–5 en tu perfil)*  
+
+Certificaciones
+Programación para Aplicaciones Móviles (2023) – Curso libre, Universidad de Costa Rica, duración: 20 horas.
+
+
+Cómo contactarme
+Correo: k.brenes10@hotmail.com  
+[LinkedIn](https://linkedin.com/in/TU_USUARIO)  
+[GitHub](https://github.com/Troxxxxx)  
 
 ---
 
-## 📜 Certificaciones
-- **Programación para Aplicaciones Móviles (2023)** – Curso libre, Universidad de Costa Rica, duración: 20 horas.
-
----
-
-## 📫 Cómo contactarme
-- ✉️ **Correo:** tu_email@ejemplo.com  
-- 💼 [LinkedIn](https://linkedin.com/in/TU_USUARIO)  
-- 💻 [GitHub](https://github.com/TU_USUARIO)  
-
----
-
-⭐️ *“Mi meta es crecer como desarrollador aportando valor en proyectos reales, mientras continúo aprendiendo y colaborando en equipo.”*  
+“Mi meta es crecer como desarrollador aportando valor en proyectos reales, mientras continúo aprendiendo y colaborando en equipo.”
